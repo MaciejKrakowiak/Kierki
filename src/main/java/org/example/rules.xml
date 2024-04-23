@@ -1,0 +1,115 @@
+<game>
+    <rounds>
+        <round number="1">
+            <forbidden_cards>
+            </forbidden_cards>
+            <lewa_penalty>true</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>false</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>false</restricted_kier>
+        </round>
+        <round number="2">
+            <forbidden_cards>
+                <card name="H2" penalty="-20" />
+                <card name="H3" penalty="-20" />
+                <card name="H4" penalty="-20" />
+                <card name="H5" penalty="-20" />
+                <card name="H6" penalty="-20" />
+                <card name="H7" penalty="-20" />
+                <card name="H8" penalty="-20" />
+                <card name="H9" penalty="-20" />
+                <card name="H10" penalty="-20" />
+                <card name="HJ" penalty="-20" />
+                <card name="HQ" penalty="-20" />
+                <card name="HK" penalty="-20" />
+                <card name="HA" penalty="-20" />
+            </forbidden_cards>
+            <lewa_penalty>false</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>false</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>true</restricted_kier>
+        </round>
+        <round number="3">
+            <forbidden_cards>
+                <card name="HQ" penalty="-60" />
+                <card name="DQ" penalty="-60" />
+                <card name="SQ" penalty="-60" />
+                <card name="CQ" penalty="-60" />
+            </forbidden_cards>
+            <lewa_penalty>false</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>false</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>false</restricted_kier>
+        </round>
+        <round number="4">
+            <forbidden_cards>
+                <card name="HJ" penalty="-30" />
+                <card name="DJ" penalty="-30" />
+                <card name="SJ" penalty="-30" />
+                <card name="CJ" penalty="-30" />
+                <card name="HK" penalty="-30" />
+                <card name="DK" penalty="-30" />
+                <card name="SK" penalty="-30" />
+                <card name="CK" penalty="-30" />
+            </forbidden_cards>
+            <lewa_penalty>false</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>false</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>false</restricted_kier>
+        </round>
+        <round number="5">
+            <forbidden_cards>
+                <card name="HK" penalty="-150" />
+            </forbidden_cards>
+            <lewa_penalty>false</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>false</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>true</restricted_kier>
+        </round>
+        <round number="6">
+            <forbidden_cards>
+            </forbidden_cards>
+            <lewa_penalty>false</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>true</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>false</restricted_kier>
+        </round>
+        <round number="7">
+            <forbidden_cards>
+                <card name="H2" penalty="-20" />
+                <card name="H3" penalty="-20" />
+                <card name="H4" penalty="-20" />
+                <card name="H5" penalty="-20" />
+                <card name="H6" penalty="-20" />
+                <card name="H7" penalty="-20" />
+                <card name="H8" penalty="-20" />
+                <card name="H9" penalty="-20" />
+                <card name="H10" penalty="-20" />
+                <card name="HJ" penalty="-50" />
+                <card name="HQ" penalty="-80" />
+                <card name="HK" penalty="-200" />
+                <card name="HA" penalty="-20" />
+                <card name="DQ" penalty="-60" />
+                <card name="SQ" penalty="-60" />
+                <card name="CQ" penalty="-60" />
+                <card name="DJ" penalty="-30" />
+                <card name="SJ" penalty="-30" />
+                <card name="CJ" penalty="-30" />
+                <card name="DK" penalty="-30" />
+                <card name="SK" penalty="-30" />
+                <card name="CK" penalty="-30" />
+            </forbidden_cards>
+            <lewa_penalty>true</lewa_penalty>
+            <lewa_penalty_value>-20</lewa_penalty_value>
+            <lastlewa_penalty>true</lastlewa_penalty>
+            <lastlewa_penalty_value>-75</lastlewa_penalty_value>
+            <restricted_kier>true</restricted_kier>
+        </round>
+    </rounds>
+</game>
